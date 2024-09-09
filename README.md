@@ -8,7 +8,7 @@ Visual Studio 2022를 사용하였고, .ignore 파일은 [`https://github.com/gi
 [gitignore]: https://github.com/github/gitignore/
 
 ---
-###Log
+### Log
 
 2024.09.09 1874<br>
 2024.09.09 2164
