@@ -6,3 +6,9 @@ Visual Studio 2022를 사용하였고, .ignore 파일은 [`https://github.com/gi
 
 [Baekjoon]: https://www.acmicpc.net/
 [gitignore]: https://github.com/github/gitignore/
+
+---
+###Log
+
+2024.09.09 1874
+2024.09.09 2164
